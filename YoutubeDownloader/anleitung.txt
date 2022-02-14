@@ -1,0 +1,14 @@
+Anleitung zur Verwendung vom YouTube Downloader
+
+Information: ausführen bedeutet immer Rechtsklick -> Öffnen mit -> python
+
+Vor der ersten Verwendung die Datei setup(.py) ausführen.
+
+Verwendung:
+Links der gewünschten Videos in videos(.txt) schreiben.
+youtube_downloader(.py) ausführen.
+Die Dateien werden automatisch in die richtigen Ordner sortiert
+(downloads_video_und_audio; downloads/nur_video; downloads/nur_audio/mp4; downloads/nur_audio/mp3)
+
+Dateien können am Ende leicht konvertiert werden.
+Wenn die Datei videos(.txt) leer ist, kommt man sofort zu diesem Punkt.
